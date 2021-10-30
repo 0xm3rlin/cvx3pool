@@ -1,0 +1,132 @@
+{
+    "cutOffBlock": 13517918,
+    "borrowers": {
+        "0x0F70A91DD4Ae5A17868991180C0d4FcdbA82f6b7": {
+            "borrowedAmount": 2941037,
+            "fee": 29411
+        },
+        "0xf4C586A2DCD0Afb8718F830C31de0c3C5c91b90C": {
+            "borrowedAmount": 208476,
+            "fee": 2085
+        },
+        "0x0ddda327A6614130CCb20bc0097313A282176A01": {
+            "borrowedAmount": 324850,
+            "fee": 3249
+        },
+        "0x05606123D385DEb2d7069421af2376603A326e2b": {
+            "borrowedAmount": 373541,
+            "fee": 3736
+        },
+        "0x19dfdc194Bb5CF599af78B1967dbb3783c590720": {
+            "borrowedAmount": 90900,
+            "fee": 909
+        },
+        "0x99E6322Fd0B510c4676F2B71821d07a45c1fBFe9": {
+            "borrowedAmount": 84501,
+            "fee": 846
+        },
+        "0x461c8CA657F08D5F39B051b045E8202E60cba4a5": {
+            "borrowedAmount": 1599480,
+            "fee": 15995
+        },
+        "0x2d1EF4aCf4cae6a38950971AaAA15f88D9b3f165": {
+            "borrowedAmount": 136350,
+            "fee": 1364
+        },
+        "0xA44247b333FaF99C03c863Bd713f034bD73f92A2": {
+            "borrowedAmount": 1792433,
+            "fee": 17925
+        },
+        "0x11c9Ac11ce9913E26faA7a9EE5B07c92b0C8c372": {
+            "borrowedAmount": 1176407,
+            "fee": 11765
+        },
+        "0x60EcF492e2c8e0107Be51D44A5145d533e195b5F": {
+            "borrowedAmount": 45843,
+            "fee": 459
+        },
+        "0x0554A200988cf265B3aA35436A903d51FAC47112": {
+            "borrowedAmount": 12161932,
+            "fee": 121620
+        },
+        "0x1Bf9BC32B276CB8217aea47e13A08043a1dBc52b": {
+            "borrowedAmount": 384977,
+            "fee": 3850
+        },
+        "0x0b39a46D9FE2f26ffe03c5f32fdF19541e1e92C8": {
+            "borrowedAmount": 7351621,
+            "fee": 73517
+        },
+        "0xf0bF884fccd483875f626ba070Faa86afde0438C": {
+            "borrowedAmount": 381676,
+            "fee": 3817
+        },
+        "0x2880a6bb2cD1DF6E03dC8BbFBEd009DE586c2603": {
+            "borrowedAmount": 583797,
+            "fee": 5838
+        },
+        "0x09Fd77349FCE101142265F91c95f59fB20353644": {
+            "borrowedAmount": 1508158,
+            "fee": 15082
+        },
+        "0x61B29c47EB158DD031d692c8778b8F8E2B1E7C2d": {
+            "borrowedAmount": 151867,
+            "fee": 1519
+        },
+        "0xeea30DFEAB54a05434967F4540CDdCD61dCA2D21": {
+            "borrowedAmount": 441084,
+            "fee": 4411
+        },
+        "0xe0bcE02C802233389C3c5309d279241C0638D90B": {
+            "borrowedAmount": 356757,
+            "fee": 3568
+        },
+        "0xC7c022BD85529bEd1b92DE4Ba847F3f4e8fd5CbF": {
+            "borrowedAmount": 4626256,
+            "fee": 46263
+        },
+        "0x01ebce016681D076667BDb823EBE1f76830DA6Fa": {
+            "borrowedAmount": 91607,
+            "fee": 917
+        },
+        "0xdcce006d163C6025e182e58ef84d6abB2A05fdF4": {
+            "borrowedAmount": 3142557,
+            "fee": 31426
+        },
+        "0x46df86398d9204d422692C3F6aFF8F35B0418EC0": {
+            "borrowedAmount": 190954,
+            "fee": 1910
+        },
+        "0x025f7cB6bDb8cD6Ed126e1cB2EFe2fC3539602b8": {
+            "borrowedAmount": 69657,
+            "fee": 697
+        },
+        "0xBBDE1E05d96c5C4F7e377D5EaEd21Cac08A92945": {
+            "borrowedAmount": 1456457,
+            "fee": 14565
+        },
+        "0x8D9BaF8A04aE55844bD9dBEf5168946c8E8810f1": {
+            "borrowedAmount": 60600,
+            "fee": 606
+        },
+        "0x201b5Abfd44A8F9b75F0fE1BaE74CDaC7675E54B": {
+            "borrowedAmount": 1769252,
+            "fee": 17693
+        },
+        "0xE5E4188f3aCA617aE0c40634bDf168da328a838F": {
+            "borrowedAmount": 28123,
+            "fee": 282
+        },
+        "0x73C8C1d1cB1115C6f78b06Ad97aA2285E4f4d25f": {
+            "borrowedAmount": 53865,
+            "fee": 539
+        },
+        "0x58517C88EA540646C8d3735c95685B3CCbE9d308": {
+            "borrowedAmount": 45420,
+            "fee": 455
+        }
+    },
+    "totalNumber": 31,
+    "totalAmount": 43630435,
+    "totalFees": 436304
+}
